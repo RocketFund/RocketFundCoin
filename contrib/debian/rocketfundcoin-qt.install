@@ -1,0 +1,6 @@
+usr/local/bin/rocketfundcoin-qt usr/bin
+share/pixmaps/rocketfundcoin32.xpm usr/share/pixmaps
+share/pixmaps/rocketfundcoin16.xpm usr/share/pixmaps
+share/pixmaps/rocketfundcoin128.png usr/share/pixmaps
+debian/rocketfundcoin-qt.desktop usr/share/applications
+debian/rocketfundcoin-qt.protocol usr/share/kde4/services/

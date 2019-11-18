@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=ROCKETFUND Core
+Comment=ROCKETFUNDCOIN P2P Cryptocurrency
+Comment[fr]=ROCKETFUNDCOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ROCKETFUNDCOIN, eşten eşe kriptografik sanal para birimi
+Exec=rocketfundcoin-qt %u
+Terminal=false
+Type=Application
+Icon=rocketfundcoin128
+MimeType=x-scheme-handler/rocketfundcoin;
+Categories=Office;Finance;
+StartupWMClass=RocketFundCoin-qt

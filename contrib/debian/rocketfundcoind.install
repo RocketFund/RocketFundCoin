@@ -1,0 +1,3 @@
+usr/local/bin/rocketfundcoind usr/bin
+usr/local/bin/rocketfundcoin-cli usr/bin
+debian/examples/rocketfundcoin.conf etc/rocketfundcoin
