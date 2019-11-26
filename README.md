@@ -1,13 +1,13 @@
 RocketFundCoin Project
 
-Official site: https://rocketblocks.org/
+Official site: http://rocketblocks.org/
 ### Coin Specs
 <table>
 <tr><td>Algo</td><td>X13</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>10,000 RKT</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>99,90,000 RKT</td></tr>
+<tr><td>Max Coin Supply (PoS Phase)</td><td>9,900,000 RKT</td></tr>
 <tr><td>Premine</td><td>90,000 RKT*</td></tr>
 </table>
 
